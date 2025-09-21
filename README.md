@@ -15,10 +15,13 @@
 
 <p align="center">
   <a href="(https://www.linkedin.com/in/elivelton-cardoso-padilha-a27440275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)">
-    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=blue">
   </a>
   <a href="mailto:eliveltonpadilhaa@hotmail.com">
     <img src="https://img.shields.io/badge/-eliveltonpadilhaa@hotmail.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
+  <a href="[https://www.instagram.com/dev_elivelton?igsh=YTBwNnZzOGkxendo&utm_source=qr]">
+    <img src="https://img.shields.io/badge/-Instagram-00AB33?style=flat-square&logo=Instagram&logoColor=red">
   </a>
 </p>
 
