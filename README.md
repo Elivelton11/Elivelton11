@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hello, I'm Elivelton Padilha 👋</h1>
 
-<!--
-**Elivelton11/Elivelton11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Desenvolver Java | Junior </em>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+<p align="center">
+  Fascinado por código, ideias e oportunidades para contribuir por meio da tecnologia. 
+  Aqui você encontrará código, criatividade e compromisso com a criação.
+</p>
+
+<p align="center">
+  <a href="(https://www.linkedin.com/in/elivelton-cardoso-padilha-a27440275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)">
+    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
+  <a href="mailto:eliveltonpadilhaa@hotmail.com">
+    <img src="https://img.shields.io/badge/-eliveltonpadilhaa@hotmail.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
+</p>
+
+---
+
+### 🧠 About Me
+
+- 🔭  Desenvolver Java | Junior
+- 🎓 Ciência da computação - Estácio
+
+---
+
+### 💻 Tech Stack Highlights
+
+-  Java
+-  SpringBoot
+-  Node.js
+-  MySQL
+-  Python
+-  Djando
+-  Langchain
+  
+
+---
+
+<p align="center">
+  <em>Keep building. One commit at a time.</em> 🟩
+</p>
