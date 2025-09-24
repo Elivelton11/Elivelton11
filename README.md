@@ -1,7 +1,7 @@
 <h1 align="center">Elivelton Padilha 👨🏻‍💻</h1>
 
 <p align="center">
-  <em>Desenvolver Java | Junior </em>
+  <em>Desenvolvedor Java </em>
 </p>
 
 
