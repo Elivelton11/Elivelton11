@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Elivelton Padilha 👋</h1>
+<h1 align="center">Bem vindo! 👋</h1>
 
 <p align="center">
   <em>Desenvolver Java | Junior </em>
@@ -27,7 +27,7 @@
 
 ---
 
-### 🧠 About Me
+### 🧠 Sobre
 
 - 🔭  Desenvolver Java | Junior
 - 🎓 Ciência da computação - Estácio
