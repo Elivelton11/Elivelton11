@@ -29,7 +29,7 @@
 
 ### 🧠 Sobre
 
-- 🔭  Desenvolver Java | Junior
+- 🔭  Desenvolvedor Java
 - 🎓 Ciência da computação - Estácio
 
 ---
