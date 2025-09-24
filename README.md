@@ -1,4 +1,4 @@
-<h1 align="center">Elivelton Padilha 👋</h1>
+<h1 align="center">Elivelton Padilha 👨🏻‍💻</h1>
 
 <p align="center">
   <em>Desenvolver Java | Junior </em>
