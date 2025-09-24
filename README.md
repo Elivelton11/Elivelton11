@@ -30,7 +30,7 @@
 ### 🧠 Sobre
 
 - 🔭  Desenvolvedor Java | Spring boot | API | MySQL | Oracle
-- 🎓 Ciência da computação - Estácio
+- 🎓 Ciência da computação - Estácio (5º fase)
 
 ---
 
