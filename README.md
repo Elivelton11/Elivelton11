@@ -29,7 +29,7 @@
 
 ### 🧠 Sobre
 
-- 🔭  Desenvolvedor Java
+- 🔭  Desenvolvedor Java | Spring boot | API | MySQL | Oracle
 - 🎓 Ciência da computação - Estácio
 
 ---
@@ -38,7 +38,6 @@
 
 -  Java
 -  SpringBoot
--  Node.js
 -  MySQL
 -  Python
 -  Djando
