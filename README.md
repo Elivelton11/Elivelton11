@@ -34,7 +34,7 @@
 
 ---
 
-### 💻 Tech Stack Highlights
+### 💻 Stack's
 
 -  Java
 -  SpringBoot
@@ -48,5 +48,5 @@
 ---
 
 <p align="center">
-  <em>Keep building. One commit at a time.</em> 🟩
+  <em>Continue construindo. Um compromisso de cada vez.</em> 🟩
 </p>
