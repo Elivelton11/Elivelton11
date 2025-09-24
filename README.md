@@ -1,7 +1,7 @@
 <h1 align="center">Elivelton Padilha 👨🏻‍💻</h1>
 
 <p align="center">
-  <em>Desenvolvedor Java </em>
+  <em>Desenvolvedor Java | Spring boot | API | MySQL | Oracle </em>
 </p>
 
 
